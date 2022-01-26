@@ -5,6 +5,9 @@ contributor:
     agent_name: Pettee, F. M.
     gutenberg_agent_id: '54156'
     url: http://www.gutenberg.org/2009/agents/54156
+covers:
+- cover_type: archival
+  image_path: 67207-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Laura Rountree
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '3469'
     url: http://www.gutenberg.org/2009/agents/3469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67207#The-Box-of-Smiles-And-Other-Stories
 gutenberg_issued: '2022-01-20'
 identifiers:
   gutenberg: '67207'
